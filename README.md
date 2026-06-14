@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/el-bar-de-almas-romanticas/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for El bar de almas románticas](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/el-bar-de-almas-romanticas/) |
+| **Get License** | [Secure Licensing Rights for El bar de almas románticas](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/el-bar-de-almas-romanticas/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Me miras lento, mami, ya tú sabe'
+> La noche llama y aquí tengo la llave
+> Tus labios rojos, mi punto de quiebre
+> En este bar de almas románticas, nena, atrévete
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
