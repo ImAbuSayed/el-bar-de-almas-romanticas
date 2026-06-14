@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - El bar de almas románticas
+
+This log tracks the cryptographic history and versioning for the song **El bar de almas románticas** (el-bar-de-almas-romanticas).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-14T20:53:26.214713 | `v1` | `4bec6ddcb50d03f5ac71c2d19cae5d1eb010bca6d967a745cebd64715076c24d` | `f29f3010c8a1375d8bdc9c87c0eb7f3f540c79dd4b026214ab4a8f6af2f1ef65` | `2026-06-14_el-bar-de-almas-romanticas-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

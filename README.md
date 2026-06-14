@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/el-bar-de-almas-romanticas/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for El bar de almas románticas](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/el-bar-de-almas-romanticas/) |
+| **Get License** | [Music Rights & Licensing for El bar de almas románticas](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/el-bar-de-almas-romanticas/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `4bec6ddcb50d03f5ac71c2d19cae5d1eb010bca6d967a745cebd64715076c24d` |
 | **Timestamp** | June 14, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
